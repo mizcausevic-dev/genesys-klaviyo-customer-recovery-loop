@@ -1,0 +1,10 @@
+{
+  "name": "genesys-klaviyo-customer-recovery-loop",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Genesys and Klaviyo customer recovery loop for contact-center escalations, lifecycle messages, and retention-safe follow-up.",
+  "scripts": {
+    "test": "node scripts/validate.js"
+  },
+  "license": "AGPL-3.0-only"
+}
